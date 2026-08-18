@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-tkvuww.pusatradar88.cfd/sitemap.xml
